@@ -1,2 +1,7 @@
-## england_cycle_scheme.json
-contains all new cycling infrastrcture proposed by CYIPT, costs, BCR, etc.
+# Datasets
+### Cycle schemes Datasets
+Contains all new cycling infrastructure proposed by CYIPT, costs, BCR, etc.
+Downloaded from cyipt.bike
+
+### Geojson boundary of UK from
+https://gist.github.com/UsabilityEtc/6d2059bd4f0181a98d76
